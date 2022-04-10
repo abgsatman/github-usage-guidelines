@@ -1,2 +1,2 @@
-# github-usage-guidelines
+# Contents
 * Git large file storage (Git LFS)
