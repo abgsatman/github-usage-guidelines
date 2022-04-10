@@ -1,0 +1,8 @@
+1) installation:
+  a) Download Git LFS from here [https://git-lfs.github.com/] or
+  b) Run this command on your terminal: brew install git-lfs (for macOS)
+2) Go to the repository folder and run this command: git lfs install
+3) Set the large file format with command: git lfs track "*.so"
+4) Push the gitattributes file into the repo: git add .gitattributes
+
+Source: https://git-lfs.github.com/
